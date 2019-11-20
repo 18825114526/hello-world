@@ -3,3 +3,5 @@
 ################################################################################
 
 *.sln
+/consoleapp1/consoleapp1/consoleapp1/obj/Debug/netcoreapp3.0
+*.lock
